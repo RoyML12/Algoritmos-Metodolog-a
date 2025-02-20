@@ -1,2 +1,2 @@
-# Algoritmos-Metodolog-a
+# Algoritmos-Metodologia
 Algoritmos en PSeint 
